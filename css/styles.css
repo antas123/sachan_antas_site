@@ -1,0 +1,218 @@
+body {
+  margin: 0;
+  font-family: cursive;
+  font-family: 'Merriweather', serif;
+}
+.hr{
+  text-align: center;
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 10%;
+}
+
+.pro {
+  text-decoration: underline;
+  color: white;
+}
+
+.p1 {
+  font-family: 'Tapestry', cursive;
+  font-size: 1.5em;
+}
+
+h1 {
+  color: #15133C;
+  font-size: 562.5%;
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #15133C;
+  font-size: 2.5rem;
+  font-family: 'Tapestry', cursive;
+  font-weight: normal;
+}
+
+h3 {
+  text-decoration: underline;
+  color: #61A4BC;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+}
+
+.head-container {
+  text-align: center;
+  background-color: #8D8DAA;
+  padding-top: 100px;
+  position: relative;
+}
+
+.container-1 {
+  padding: 120px;
+  text-align: center;
+  background-color: #DFDFDE;
+  font-family: cursive;
+}
+
+.container-2 {
+  padding: 20px;
+  background-color: #F7F5F2;
+  text-align: center;
+  font-family: cursive;
+}
+.canva{
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+.canvas{
+
+  width: 15%;
+  float :right;
+  margin-left: 50px;
+}
+.code-div{
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
+
+.badminton-div{
+  text-align: left;
+  margin: 100px auto 100px auto;
+    width: 50%;
+}
+
+.skill-image {
+  width: 10%;
+  height: 10%;
+}
+
+.code-img {
+  margin-left: 50px;
+  width: 100px;
+  height: 100px;
+  float: right;
+}
+
+.badminton-img {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin-right: 50px;
+}
+
+.contact {
+  padding: 40px;
+  text-align: center;
+  background-color: #CCD1E4;
+}
+.phone{
+  width: 10%;
+  color:#CCD1E4;
+  border-radius: 50%
+}
+
+.social-media{
+  padding: 30px 0px;;
+  text-align: center;
+  background-color: #8D8DAA;
+  color: white;
+  font-size: 0.85rem;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 330px;
+  left: 200px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 270px;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+a{
+  color: #001D6E;
+ font-weight: bolder;
+ text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+
+
+
+.btn2 {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn2:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.btn3 {
+  background: #a3bdcf;
+  background-image: -webkit-linear-gradient(top, #a3bdcf, #244e69);
+  background-image: -moz-linear-gradient(top, #a3bdcf, #244e69);
+  background-image: -ms-linear-gradient(top, #a3bdcf, #244e69);
+  background-image: -o-linear-gradient(top, #a3bdcf, #244e69);
+  background-image: linear-gradient(to bottom, #a3bdcf, #244e69);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #ffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn3:hover {
+  background: #75a8c7;
+  text-decoration: none;
+}
